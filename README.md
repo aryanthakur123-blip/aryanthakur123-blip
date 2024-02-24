@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanthakur123-blip
 - 👀 I’m interested in Devlopmen, DSA, Technology
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java,Flutter,Kotlin (Mobile App DEvelopement)
 - 💞️ I’m looking to collaborate on Hackathons 
 - 📫 How to reach me gmail- aryanthakur.2246@gmail.com
 
